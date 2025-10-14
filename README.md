@@ -82,7 +82,8 @@ npm run dev
 
 ### System Architecture
 
-<img width="full" alt="System Architecture" src="https://github.com/user-attachments/assets/dbc875d2-7dbc-46e4-af8b-ac18d7929403" />
+<img width="1920" height="583" alt="System Architecture" src="https://github.com/user-attachments/assets/40d20789-93c0-4da5-b6f2-d1fe23bcdd6e" />
+
 
 ### Frontend
 

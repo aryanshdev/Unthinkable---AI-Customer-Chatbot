@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/aryanshdev/Unthinkable-Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/aryanshdev/Unthinkable-Frontend.git

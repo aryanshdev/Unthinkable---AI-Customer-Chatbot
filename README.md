@@ -1,7 +1,8 @@
 # Unthinkable AI Customer Support ChatBot
 
 > For Original Work Record Visit https://github.com/aryanshdev/Unthinkable-Frontend For Frontend And https://github.com/aryanshdev/Unthinkable-Backend For Backend
-## Table of Contents
+
+## Quick Links
 
 - [About](#about)
 	- [Demo Video](#demo-video)
@@ -27,7 +28,7 @@ You Can Try It Out At Ourself: [https://unthinkable-chatbot.vercel.app](https://
 [You Can Also Watch Here](https://drive.google.com/file/d/1ACEJ4GlD2du80Z9_kIbrOpGP_TTtQlKr/view)
 
 
-<iframe src="https://drive.google.com/file/d/1ACEJ4GlD2du80Z9_kIbrOpGP_TTtQlKr/preview" width="495" height="270"></iframe>
+<iframe src="https://drive.google.com/file/d/1ACEJ4GlD2du80Z9_kIbrOpGP_TTtQlKr/preview" width="100%" height="420"></iframe>
 
 ## Getting Started
 

@@ -26,7 +26,8 @@ You Can Try It Out At Ourself: [https://unthinkable-chatbot.vercel.app](https://
 #### Demo Video
 [You Can Also Watch Here](https://drive.google.com/file/d/1ACEJ4GlD2du80Z9_kIbrOpGP_TTtQlKr/view)
 
-<iframe src="https://drive.google.com/file/d/1ACEJ4GlD2du80Z9_kIbrOpGP_TTtQlKr/preview" width="100%" height="auto"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1ACEJ4GlD2du80Z9_kIbrOpGP_TTtQlKr/preview" width="495" height="270"></iframe>
 
 ## Getting Started
 
